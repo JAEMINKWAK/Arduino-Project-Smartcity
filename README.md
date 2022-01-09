@@ -3,7 +3,7 @@
 <div align=center> 
   Hi there 👋 , this is my first project of my undergraduate year.
   <br> 
- ![그림1](https://user-images.githubusercontent.com/95974639/148686358-8ea22128-5b87-42b5-b78c-ce2564f4d9e3.jpg)
+ ![image](https://user-images.githubusercontent.com/95974639/148686358-8ea22128-5b87-42b5-b78c-ce2564f4d9e3.jpg)
 
 
 
