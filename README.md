@@ -1,7 +1,7 @@
 <div align=center><h2>💻 CBNU Creative Engineering Design</h2></div>
 
 <div align=center> 
-  Hi there 👋 , this is my first project of my undergraduate year.
+  <h3>Hi there 👋 , this is my first project of my undergraduate year.</h3>
   <br> 
   It was created using three source codes: <strong>Gas Sensor, LED Switch, and Traffic Light.</strong>
   <br>
