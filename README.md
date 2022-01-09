@@ -17,10 +17,3 @@
   <br> 
   <br> 
  ![image](https://user-images.githubusercontent.com/95974639/148686412-d2fdf03f-e518-495d-a105-da66d11afb34.jpg)
-
-
-
-### How to reach me? 🤔
-
-- 📮  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwakjaemin123@gmail.com)](mailto:kwakjaemin123@gmail.com)
-</div>
