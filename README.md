@@ -1,12 +1,11 @@
 <div align=center><h2>💻 CBNU Creative Engineering Design</h2></div>
 
 <div align=center> 
-  <h3>💻 CBNU Creative Engineering Design</h3> 
-  <br>
-  
- ### Hi there 👋   
+ ### Hi there 👋 , this is my first project of my undergraduate year.
+  <br> 
+![image](https://user-images.githubusercontent.com/95974639/148686210-bc097b10-c387-439b-97ca-5f047ce0199a.png)
+ 
 
- -   **I'm a Student**    
 
 ### How to reach me? 🤔
 
